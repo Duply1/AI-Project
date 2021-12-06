@@ -6,7 +6,7 @@ from DirectKeys import ReleaseKey, W, A, D, S, PressKey
 import pyautogui
 from draw_lanes import draw_lines
 from get_keys import key_check
-from get_screen import get_screen
+from get_screen import grab_screen
 
 
 
